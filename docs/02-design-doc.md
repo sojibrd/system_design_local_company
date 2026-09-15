@@ -2,15 +2,15 @@
 
 *দিন ০১৫–০২৮ · ছয় সেকশন · চারটা লোকাল প্রশ্ন মুখে · dip*
 
-**এই একটা ডকই লোকাল interview-এর system design অংশটা ঢেকে দেয়** — প্রশ্ন আসবে নিজের প্রজেক্ট নিয়েই। প্রথম সপ্তাহে দিনে একটা সেকশন, ইংরেজিতে বুলেট, `system_design/designs/srdtube-small-static.md`-এ। দ্বিতীয় সপ্তাহে লেখা বন্ধ — চারটা লোকাল প্রশ্ন মুখে, রেকর্ড করে। 🧠 (Pareto · Active learning)
+**এই একটা ডকই লোকাল interview-এর system design অংশটা ঢেকে দেয়** — প্রশ্ন আসবে নিজের প্রজেক্ট নিয়েই। প্রথম সপ্তাহে দিনে একটা সেকশন, ইংরেজিতে বুলেট, `srdtube` repo-র `DESIGN.md`-এ। দ্বিতীয় সপ্তাহে লেখা বন্ধ — চারটা লোকাল প্রশ্ন মুখে, রেকর্ড করে। 🧠 (Pareto · Active learning)
 
 সপ্তাহ ৩ ছেড়ে দেওয়ার সময় — ডক পড়ার নতুনত্ব শেষ, আর নিজের সিদ্ধান্ত লিখতে গিয়ে দেখা যায় অনেক কিছুর কারণ জানা নেই। ওটাই শেখার জায়গা; নতুন ডক খোলা নয়। 🧠 (The dip · The obstacle)
 
-> **ব্লক শেষে:** ছয় সেকশনের design doc `designs/`-এ, আর চারটা লোকাল প্রশ্নের রেকর্ডিং — সহজ উত্তর আগে?
+> **ব্লক শেষে:** ছয় সেকশনের design doc `srdtube`-এর `DESIGN.md`-এ, আর চারটা লোকাল প্রশ্নের রেকর্ডিং — সহজ উত্তর আগে?
 
 ### দিন ০১৫ · কী বানিয়েছি
 
-- [ ] ২০′ design doc সেকশন ১ — **কী বানিয়েছি:** functional ৩ বুলেট (keyword + date range-এ খোঁজা, playlist লোড, sortable টেবিল), non-functional ২ বুলেট (quota-র মধ্যে থাকা, backend ছাড়া); ইংরেজিতে, `system_design/designs/srdtube-small-static.md`-এ — ফাইল আগে থেকে থাকলে ওটাই বদলান 🧠 (Active learning · Procrastination)
+- [ ] ২০′ design doc সেকশন ১ — **কী বানিয়েছি:** functional ৩ বুলেট (keyword + date range-এ খোঁজা, playlist লোড, sortable টেবিল), non-functional ২ বুলেট (quota-র মধ্যে থাকা, backend ছাড়া); ইংরেজিতে, `srdtube` repo-র `DESIGN.md`-এ — ফাইল আগে থেকে থাকলে ওটাই বদলান 🧠 (Active learning · Procrastination)
 
 > **দিন শেষে:** ফাইলটা আছে, সেকশন ১ ভরা?
 
