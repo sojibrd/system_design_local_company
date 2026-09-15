@@ -41,7 +41,7 @@
 
 ### তথ্য বদলানোর ক্রম
 
-`legacy_and_wisdom/docs/ASSUMPTIONS.md` → `brainstorming/` (`system-design-*.md`) → `switch_local_company_in_6_month/docs/` → এই ফোল্ডার।
+`brainstorming/ASSUMPTIONS.md` → `brainstorming/` (`system-design-*.md`) → `switch_local_company_in_6_month/docs/` → এই ফোল্ডার।
 
 ### ব্লক ফাইলের ছাঁচ
 

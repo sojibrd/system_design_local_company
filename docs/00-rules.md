@@ -12,7 +12,7 @@
 
 এই সাইট নতুন কোনো লক্ষ্য বা সংখ্যা যোগ করে না। তথ্য বদলালে এই ক্রমে:
 
-1. `legacy_and_wisdom/docs/ASSUMPTIONS.md`
+1. `brainstorming/ASSUMPTIONS.md`
 2. `brainstorming/` — `system-design-how-many-paths.md`, `system-design-what-works-for-local.md`, `system-design-what-to-ignore-for-local.md`, `after-getting-response/04-technical-rounds.md`
 3. `switch_local_company_in_6_month/` — ঐ plan-এর দিন ০৫০–০৭৭-এর সোম–শুক্রের ৩০′-এর ঘর এই সাইটের দিন ০০১–০২৮
 4. এই ফোল্ডার — `docs/`
