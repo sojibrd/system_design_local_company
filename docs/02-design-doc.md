@@ -10,7 +10,7 @@
 
 ### দিন ০১৫ · কী বানিয়েছি
 
-- [ ] ২০′ design doc সেকশন ১ — **কী বানিয়েছি:** functional ৩ বুলেট (keyword + date range-এ খোঁজা, playlist লোড, sortable টেবিল), non-functional ২ বুলেট (quota-র মধ্যে থাকা, backend ছাড়া); ইংরেজিতে, `designs/`-এ নতুন ফাইল 🧠 (Active learning · Procrastination)
+- [ ] ২০′ design doc সেকশন ১ — **কী বানিয়েছি:** functional ৩ বুলেট (keyword + date range-এ খোঁজা, playlist লোড, sortable টেবিল), non-functional ২ বুলেট (quota-র মধ্যে থাকা, backend ছাড়া); ইংরেজিতে, `system_design/designs/srdtube-small-static.md`-এ — ফাইল আগে থেকে থাকলে ওটাই বদলান 🧠 (Active learning · Procrastination)
 
 > **দিন শেষে:** ফাইলটা আছে, সেকশন ১ ভরা?
 
