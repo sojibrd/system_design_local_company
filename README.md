@@ -2,7 +2,7 @@
 
 বাংলাদেশি কোম্পানির কারিগরি আলোচনার system design অংশের প্রস্তুতি: `system_design`-এর সাতটা ডক নিজের প্রজেক্ট দিয়ে লেখা, `srdtube`-এর ছয় সেকশনের design doc, আর চারটা লোকাল প্রশ্ন মুখে — ২৮ দিনে। দিনে একটা ছোট কাজ, ঝালাইসহ, শেখার বিজ্ঞান মেনে। তারপর থামা।
 
-এটা তিনটা স্বাধীন পথের একটা — [রিমোট](https://sojibrd.github.io/system_design_remote_company/) আর [গ্লোবাল](https://sojibrd.github.io/system_design_global_company/) আলাদা সাইট, প্রতিটা শূন্য থেকে শুরু। DSA-র মতো কেন্দ্রীভূত বৃত্ত নয় — এখানে পথ বদলালে কাজের ধরনই বদলায় (লোকালে নিজের সিস্টেম ব্যাখ্যা, রিমোটে ইংরেজিতে লিখে বোঝানো, গ্লোবালে ঘড়ির নিচে মুখে)। `switch_local_company_in_6_month`-এর দিন ০৫০–০৭৭-এ DSA শেষে যে সোম–শুক্রের ৩০′-এর ঘর খালি হয়, এই সাইট সেই ঘরের কাজ (ব্যবহারকারীর সিদ্ধান্ত ২০২৬-০৯-১৫)।
+এটা তিনটা স্বাধীন পথের একটা — [রিমোট](https://sojibrd.github.io/system_design_remote_company/) আর [গ্লোবাল](https://sojibrd.github.io/system_design_global_company/) আলাদা সাইট, প্রতিটা শূন্য থেকে শুরু। DSA-র মতো কেন্দ্রীভূত বৃত্ত নয় — এখানে পথ বদলালে কাজের ধরনই বদলায় (লোকালে নিজের সিস্টেম ব্যাখ্যা, রিমোটে ইংরেজিতে লিখে বোঝানো, গ্লোবালে ঘড়ির নিচে মুখে)। `switch_in_6_month_local_company`-এর দিন ০৫০–০৭৭-এ DSA শেষে যে সোম–শুক্রের ৩০′-এর ঘর খালি হয়, এই সাইট সেই ঘরের কাজ (ব্যবহারকারীর সিদ্ধান্ত ২০২৬-০৯-১৫)।
 
 **লাইভ:** https://sojibrd.github.io/system_design_local_company/
 
@@ -41,7 +41,7 @@
 
 ### তথ্য বদলানোর ক্রম
 
-`brainstorming/ASSUMPTIONS.md` → `brainstorming/` (`system-design-*.md`) → `switch_local_company_in_6_month/docs/` → এই ফোল্ডার।
+`brainstorming/ASSUMPTIONS.md` → `brainstorming/` (`system-design-*.md`) → `switch_in_6_month_local_company/docs/` → এই ফোল্ডার।
 
 ### ব্লক ফাইলের ছাঁচ
 

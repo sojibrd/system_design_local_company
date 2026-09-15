@@ -14,7 +14,7 @@
 
 1. `brainstorming/ASSUMPTIONS.md`
 2. `brainstorming/` — `system-design-how-many-paths.md`, `system-design-what-works-for-local.md`, `system-design-what-to-ignore-for-local.md`, `after-getting-response/04-technical-rounds.md`
-3. `switch_local_company_in_6_month/` — ঐ plan-এর দিন ০৫০–০৭৭-এর সোম–শুক্রের ৩০′-এর ঘর এই সাইটের দিন ০০১–০২৮
+3. `switch_in_6_month_local_company/` — ঐ plan-এর দিন ০৫০–০৭৭-এর সোম–শুক্রের ৩০′-এর ঘর এই সাইটের দিন ০০১–০২৮
 4. এই ফোল্ডার — `docs/`
 
 **স্বাধীন পথ।** রিমোট আর গ্লোবালের পথ আলাদা সাইটে — [`system_design_remote_company`](https://sojibrd.github.io/system_design_remote_company/), [`system_design_global_company`](https://sojibrd.github.io/system_design_global_company/)। প্রতিটা শূন্য থেকে শুরু; এই সাইট শেষ করা ওদের শর্ত নয়। তবে এখানে পথ বদলালে কাজের ধরনই বদলায় — লোকালে নিজের সিস্টেম ব্যাখ্যা, রিমোটে ইংরেজিতে লিখে বোঝানো, গ্লোবালে ঘড়ির নিচে মুখে। বেশি ডক পড়ে এক পথ থেকে আরেক পথে পৌঁছানো যায় না।
